@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>img/folder_open.png</file>
+        <file>img/exit.png</file>
+        <file>img/revert.png</file>
+        <file>img/save.png</file>
+        <file>img/undo.png</file>
+        <file>img/MW.png</file>
+        <file>img/select_rectangle_mouse.png</file>
+    </qresource>
+</RCC>
